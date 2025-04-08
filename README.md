@@ -1,2 +1,2 @@
-# stella-lsp
-An lsp for stella lang
+# crux-lsp
+An lsp for crux lang
